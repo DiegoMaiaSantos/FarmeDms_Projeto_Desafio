@@ -15,6 +15,7 @@
 * Entity Framework
 * MySQL
 * Swagger
+* Visual Studio
 ***
 ## 💻 Autor:
 _Diego Maia Santos_ 
